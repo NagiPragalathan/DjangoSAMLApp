@@ -1,0 +1,1 @@
+https://wersdoerfer.de/blogs/ephes_blog/implementing-single-sign-on-sso-with-saml-for-a-django-application/
